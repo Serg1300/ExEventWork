@@ -1,0 +1,8 @@
+E:\SkilFact\ExceptionEventWork\ExceptionWork\bin\Debug\ExceptionWork.exe.config
+E:\SkilFact\ExceptionEventWork\ExceptionWork\bin\Debug\ExceptionWork.exe
+E:\SkilFact\ExceptionEventWork\ExceptionWork\bin\Debug\ExceptionWork.pdb
+E:\SkilFact\ExceptionEventWork\ExceptionWork\obj\Debug\ExceptionWork.csproj.AssemblyReference.cache
+E:\SkilFact\ExceptionEventWork\ExceptionWork\obj\Debug\ExceptionWork.csproj.SuggestedBindingRedirects.cache
+E:\SkilFact\ExceptionEventWork\ExceptionWork\obj\Debug\ExceptionWork.csproj.CoreCompileInputs.cache
+E:\SkilFact\ExceptionEventWork\ExceptionWork\obj\Debug\ExceptionWork.exe
+E:\SkilFact\ExceptionEventWork\ExceptionWork\obj\Debug\ExceptionWork.pdb

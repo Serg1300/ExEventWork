@@ -1,0 +1,8 @@
+E:\SkilFact\ExceptionEventWork\EventWork\bin\Debug\EventWork.exe.config
+E:\SkilFact\ExceptionEventWork\EventWork\bin\Debug\EventWork.exe
+E:\SkilFact\ExceptionEventWork\EventWork\bin\Debug\EventWork.pdb
+E:\SkilFact\ExceptionEventWork\EventWork\obj\Debug\EventWork.csproj.AssemblyReference.cache
+E:\SkilFact\ExceptionEventWork\EventWork\obj\Debug\EventWork.csproj.SuggestedBindingRedirects.cache
+E:\SkilFact\ExceptionEventWork\EventWork\obj\Debug\EventWork.csproj.CoreCompileInputs.cache
+E:\SkilFact\ExceptionEventWork\EventWork\obj\Debug\EventWork.exe
+E:\SkilFact\ExceptionEventWork\EventWork\obj\Debug\EventWork.pdb
